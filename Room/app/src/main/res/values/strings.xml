@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">layout</string>
+    <string name="activity">두번째 Activity</string>
+</resources>
