@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Jul 18 15:36:26 KST 2020
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Administrator\\Desktop\\android_fastcam\\Room\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
