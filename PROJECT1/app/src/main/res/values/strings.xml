@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">layout</string>
+    <string name="menu_title">구매</string>
+    <string name="primium">건영프리미엄</string>
+    <string name="menu_refund">건영환불받기</string>
+    <string name="menu_review">앱리뷰하기</string>
+    <string name="menu_ask">문의하기</string>
+    <string name="menu_shared">앱공유하기</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="admob_app_id">ca-app-pub-1642017903398482~7416803249</string>
+    <string name="banner_ad_unit_id_for_test">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
