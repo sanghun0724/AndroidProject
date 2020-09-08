@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+<item android:title="구매"></item>
+    <group android:checkableBehavior="single">
+  <item android:id="@+id/nav_purchase"
+          android:icon="@drawable/ic_launcher_bell"
+      android:title="@string/primium"></item>
+   <item android:title="@string/menu_refund"
+       android:id="@+id/nav_refund"
+       android:icon="@drawable/ic_launcher_time"></item>
+    </group>
+ <item android:title="지원"></item>
+    <group android:checkableBehavior="single">
+       <item android:id="@+id/nav_reivew"
+           android:title="@string/menu_review"
+           android:icon="@drawable/ic_launcher_reviewicon"></item>
+        <item android:id="@+id/nav_shared"
+            android:title="@string/menu_shared"
+            android:icon="@drawable/ic_launcher_somethingblack"
+            ></item>
+        <item android:title="@string/menu_ask"
+            android:id="@+id/nav_question"
+            android:icon="@drawable/ic_launcher_ask">
+        </item>
+
+    </group>
+
+</menu>

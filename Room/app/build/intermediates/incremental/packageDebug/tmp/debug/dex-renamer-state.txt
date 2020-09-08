@@ -1,0 +1,4 @@
+#Sun Jul 19 17:56:00 KST 2020
+base.0=C\:\\Users\\Administrator\\Desktop\\android_fastcam\\Room\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CEO Dictionary</string>
+    <string name="activity" translatable="false">Activity</string>
+    <string name="app_id" translatable="false">
+ ca-app-pub-6630212271762127~3313681673
+      </string>
+    <string name="app_testid" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_rearid" translatable="false">ca-app-pub-6630212271762127/6462589190</string>
+
+
+    <string name="pichai">"피차이는 1972년 인도 타밀 나두(Tamil Nadu) 주에서 태어나서, 첸나이 지방에서 자랐다. 그의 아버지는 전기기술자였다. 피차이의 가족은 그리 넉넉한 편이 아니었다. IT 업계의 창업자나 CEO 대부분이 어린 시절 컴퓨터를 접하고 흥미를 가지게 되었다고 얘기하지만, 여기서 피차이는 예외다. 그는 대학에 들어가기 전까지 컴퓨터를 구경도 해보지 못했다.대신 피차이에게 주어진 것은 천재적인 암기력이었다. 그는 주변인들의 연락처와 최근 연락한 곳의 전화번호를 외울 수 있었다. 이러한 피차이의 암기력에 주목한 그의 부모는 넉넉지 않은 살림에도 불구하고 피차이를 대학에 보내기로 결정했다. 부모의 도움으로 피차이는 인도 공과 대학(Indian Institute of Technology) 카라그푸르(Kharagpur) 캠퍼스에 입학할 수 있었다. 그가 선택한 전공은 컴퓨터와 무관한 야금공학이었다. 인도에서 손 꼽히는 공업도시 카라그푸르에서 가장 선호받는 전공이었다.하지만 대학에 입학한 피차이는 그의 삶을 바꿀 기기를 만나게 된다. 바로 컴퓨터였다. 1990년대 초 급격히 성장하기 시작한 컴퓨터와 소프트웨어 산업을 접한 피차이는 자신의 전공못지 않게 컴퓨터 공학에도 큰 흥미를 갖게 되었다. 그는 독학으로 체스 프로그램을 만들 정도로 컴퓨터 공학에 심취하게 되었다.1993년 대학을 우수한 성적으로 졸업한 피차이는 스탠퍼드 대학의 장학생으로 선발 되었다. 아버지의 1년 연봉보다 더 많은 장학금을 받게된 피차이는 미국 유학길에 올랐다. 스탠퍼드 대학에서 재료공학 석사를 이수한 후 미국 기업에 취업한다는 결정을 내렸다. 그의 첫 번째 직장은 반도체 제작 장비를 만드는 어플라이드머티어리얼즈(Applied Materials)였다. 엔지니어로서의 삶을 살던 그는 펜실바니아 대학 왓슨스쿨에서 경영학 석사(MBA)를 이수한 후 기업 관리자로서의 삶을 살기로 결정했다. 2002년 왓슨스쿨을 졸업하고 맥킨지컨설팅그룹에서 반도체 관련 컨설팅을 진행하다가 2004년 구글에 합류했다.    </string>
+    <string name="jobs">bb</string>
+    <string name="musk">aa</string>
+    <string name="billy">c</string>
+    <string name="parker">2</string>
+    <string name="cook">22</string>
+    <string name="waren">222</string>
+    <string name="jobs1">jobs</string>
+    <string name="musk1">musk</string>
+    <string name="prichai1">pichai</string>
+    <string name="billy1">bill</string>
+    <string name="parker1">heheh</string>
+    <string name="coock1">sd</string>
+    <string name="waren1">wd</string>
+</resources>
