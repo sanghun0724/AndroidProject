@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_arrow_drop_down_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_arrow_drop_down_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_icon_grey_fill_book.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/icon_grey_fill_book.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/menu_setting.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/menu/setting.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_review_noti.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/review_noti.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_settings_backup_restore_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_settings_backup_restore_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_star_border_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_star_border_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_favorite_list.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/favorite_list.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_folder_btn.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/folder_btn.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_app_bar_main.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_cover_up.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/cover_up.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_containfav_main.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/containfav_main.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_menu_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_menu_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/anim_rightin_activity.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/anim/rightin_activity.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_icon_grey_bookmark.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/icon_grey_bookmark.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_share_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_share_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_close_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_close_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_contain_main.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/contain_main.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_folder_clicked_btn.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/folder_clicked_btn.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_notifications_none_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_notifications_none_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_icon_white_delete.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/icon_white_delete.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/xml_provider_paths.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/menu_menu_folder.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/menu/menu_folder.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_activity_main.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_search.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/search.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_green_filled_bookmark.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/green_filled_bookmark.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_more_vert_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_more_vert_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_icon_star.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/icon_star.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_bookmarklist.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/bookmarklist.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_activity_loading.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/activity_loading.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_chevron_left_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_chevron_left_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_bookmark.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/bookmark.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/menu_menu_search.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/menu/menu_search.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_activity_search.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_icon_grey_bookfolder.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/icon_grey_bookfolder.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/xml_searchable.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_main_title.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/main_title.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/anim_not_move_activity.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/anim/not_move_activity.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_purchase_noti.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/purchase_noti.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_grean_bookrmark.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/grean_bookrmark.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/menu_menu_main.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/menu_activity_setting_drawer.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/menu/activity_setting_drawer.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_nav_header_setting.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/nav_header_setting.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_search_list.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/search_list.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable-v24_spreadsheet.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable-v24/spreadsheet.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_help_outline_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_help_outline_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_product_list.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/product_list.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/anim_fill_background.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/anim/fill_background.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/anim_rightout_activity.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/anim/rightout_activity.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_search_black_24dp.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/build/intermediates/res/merged/release/layout_activity_favorite.xml.flat",
+        "source": "/Users/seonwoo1/AndroidStudioProjects/engWordApp/app/src/main/res/layout/activity_favorite.xml"
+    }
+]

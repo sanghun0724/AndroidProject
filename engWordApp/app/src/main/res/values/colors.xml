@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  <color name="colorPrimary">#008577</color>-->
+<!--  <color name="colorPrimaryDark">#00574B</color>-->
+<!--  <color name="colorAccent">#D81B60</color>-->
+
+<!--  MainActivity-->
+
+
+<!--  FavoriteActivity-->
+  <color name="color_Fav_CoverRight">#F234f2</color>
+  <color name="color_Fav_CoverLeft">#f2f222</color>
+  <color name="color_Fav_CardItem">#f2f222</color>
+
+<!--  common-->
+  <color name="colorTransparent">#00ff0000</color>
+  <color name="colorBlack">#000000</color>
+  <color name="colorWhite">#ffffff</color>
+
+  <color name="colorFontTitle">#00ff0000</color>
+  <color name="colorFontDesc">#00ff0000</color>
+
+  <color name="colorBackground">#f7f7f7</color>
+
+  //test
+  <color name="colorPrimary">#111</color>
+  <color name="colorPrimaryDark">#FFF</color>
+  <color name="colorWhite2">  #F2F2F2</color>
+  <color name="colorAccentOran">#F86625</color>
+  <color name="colorAccentBule">#213781</color>
+  <color name="colorAccentLlightBule">#41538D</color>
+  <color name="colorDarkGray">#464646</color>
+  <color name="colorLigthtGray">#A2A2A2</color>
+  <color name="colorLigthtGray2">#F9F9F9</color>
+  <color name="colorAccentGreen">#05F26C</color>
+
+
+  <color name="colorLightBeige">#F7F7f7</color>
+
+
+  <color name="contact_name">#333333</color>
+  <color name="contact_number">#8c8c8c</color>
+
+
+  <color name="colorAccentTransGreen">#8c8c8c</color>
+
+</resources>
